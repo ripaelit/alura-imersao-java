@@ -1,3 +1,5 @@
+package entities;
+
 public class Content {
     
     private final String title;

@@ -1,4 +1,10 @@
+package application;
+
 import entities.Client;
+import entities.Content;
+import extractors.LanguagesExtractor;
+import utils.ExtractorContent;
+import utils.StickerGenerator;
 
 import java.io.InputStream;
 import java.net.URL;

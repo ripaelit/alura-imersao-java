@@ -1,3 +1,5 @@
+package extractors;
+
 import entities.Content;
 import utils.ExtractorContent;
 import utils.JsonParser;
