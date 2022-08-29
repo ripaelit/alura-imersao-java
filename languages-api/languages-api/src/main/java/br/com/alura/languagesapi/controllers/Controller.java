@@ -1,7 +1,9 @@
-package br.com.alura.languagesapi;
+package br.com.alura.languagesapi.controllers;
 
 import java.util.List;
 
+import br.com.alura.languagesapi.entities.Language;
+import br.com.alura.languagesapi.repositories.Repository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

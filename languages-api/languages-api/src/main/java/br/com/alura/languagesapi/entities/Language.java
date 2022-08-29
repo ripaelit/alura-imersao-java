@@ -1,4 +1,4 @@
-package br.com.alura.languagesapi;
+package br.com.alura.languagesapi.entities;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
